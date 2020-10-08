@@ -1,0 +1,22 @@
+.overlay{
+    text-align:center;
+    top:30%;
+    position: relative;
+
+    
+   
+}
+.container-fluid{
+   
+
+}
+
+h1{
+    font-size:50px;
+}
+.jumbotron-fluid{
+    background-image: url('../assets/backgrounds/h_img.jpg');
+    height:;
+    background-size:cover;
+    
+}
